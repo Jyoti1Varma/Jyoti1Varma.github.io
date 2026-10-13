@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="740" viewBox="0 0 600 740">
+<defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#e6e8db"/><stop offset="1" stop-color="#cdd5c4"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M0 40V0h40" fill="none" stroke="#7f9579" stroke-opacity=".09"/></pattern></defs>
+<rect width="600" height="740" fill="url(#paper)"/><rect width="600" height="740" fill="url(#grid)"/>
+<circle cx="300" cy="307" r="188" stroke="#617c63" stroke-opacity=".27" fill="none"/><circle cx="300" cy="307" r="155" stroke="#617c63" stroke-opacity=".16" fill="none"/>
+<path d="M112 615V319a188 188 0 0 1 376 0v296" fill="#f3f1e2" fill-opacity=".55"/>
+<path d="M72 653h456" stroke="#7e9376" stroke-opacity=".4"/><path d="M103 671h394" stroke="#7e9376" stroke-opacity=".25"/>
+<text x="288" y="414" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="190" letter-spacing="-14" fill="#506c56">jv.</text>
+<path d="M397 177v48m-24-24h48m-41-17l34 34m-34 0l34-34" stroke="#7b8e6c" stroke-width="1.5"/>
+<text x="300" y="496" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" letter-spacing="3.5" fill="#667b62">A SPACE FOR MY PORTRAIT</text>
+<text x="300" y="523" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="19" fill="#7b8a71">a face to the name, soon.</text>
+</svg>
