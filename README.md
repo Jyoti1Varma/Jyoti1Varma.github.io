@@ -1,10 +1,6 @@
-# Jyoti Varma — personal portfolio
+# Welcome to my personal portfolio!
 
-A single-page website for GitHub Pages. The files work as they are: no installation, build command, account, or animation library is required. All illustrations are original SVG/CSS graphics included in this folder. There are no analytics, cookies, external fonts, or third-party scripts.
-
-## Open it
-
-Double-click `index.html` to view the website. For a local server, run `python3 -m http.server 8000` in this folder, then open `http://localhost:8000`. The email-copy feature uses the browser clipboard when available and has a fallback for local files.
+Go to https://jyoti1varma.github.io to visit my website 
 
 ## Upload to your GitHub repository
 
